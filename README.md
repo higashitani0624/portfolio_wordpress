@@ -20,11 +20,11 @@ https://github.com/higashitani0624/wp-yuma.h のリポジトリを移動先の�
 
 ルートディレクトリまで戻ります。（webpack.config.jsファイルがあるディレクトリまで）
 
------------------
+....................
 $ yarn install
 
 $ yarn run start
-------------------
+....................
 
 正常に起動すると　'http://localhosst:8003' に自動でページが表示されます。
 
