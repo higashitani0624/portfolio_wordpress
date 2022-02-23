@@ -34,10 +34,13 @@ $ yarn run start
 
 管理画面へは　'http://localhost:8003/wp-admin/index.php' からログインしてください。
 
-ーーーーーーーーーーーーーーーーーーーーーーーー
+ーーー
 ユーザー名：higashitaniyu@crunchtimer.jp
+ーーー
+
+ーーー
 パスワード：&&4NdJD3Hu7UR5Hatd
-ーーーーーーーーーーーーーーーーーーーーーーーー
+ーーー
 
 
 * テーマは別リポジトリになっています。上記してあるリポジトリを参照してください。
