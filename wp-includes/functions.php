@@ -8222,3 +8222,8 @@ function is_php_version_compatible( $required ) {
 function wp_fuzzy_number_match( $expected, $actual, $precision = 1 ) {
 	return abs( (float) $expected - (float) $actual ) <= $precision;
 }
+
+function custom_theme_setup() {
+	add_theme_support( 'post-thumbnails' );
+}
+add_action( 'after_setup_theme', 'custom_theme_setup' );
